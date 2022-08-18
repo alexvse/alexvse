@@ -1,6 +1,6 @@
 # Hi There
 
-###I am Alex Victor S. Eugenio i am 25 years old and currentlry studying at the Digital House in the course Certified Tech Developer.
+##I am Alex Victor S. Eugenio i am 25 years old and currentlry studying at the Digital House in the course Certified Tech Developer.
 
 
 
